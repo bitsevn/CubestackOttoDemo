@@ -1,0 +1,18 @@
+<resources>
+
+    <style name="Theme.Otto.Demo" parent="Theme.Otto.Demo.Base">
+    </style>
+
+    <style name="Theme.Otto.Demo.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorAccent">@color/color_accent</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+
+
+</resources>
