@@ -9,9 +9,6 @@ import java.util.List;
 
 import in.cubestack.cubestackottodemo.fragment.AbstractFragment;
 
-/**
- * Created by arunk on 7/9/2015.
- */
 public class ViewPagerAdapter extends FragmentPagerAdapter {
 
     private List<AbstractFragment> items = new ArrayList<AbstractFragment>(0);

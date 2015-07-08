@@ -15,9 +15,6 @@ import in.cubestack.cubestackottodemo.event.ClientCallEvent;
 import in.cubestack.cubestackottodemo.event.ServerCallEvent;
 import in.cubestack.cubestackottodemo.provider.BusProvider;
 
-/**
- * Created by arunk on 6/30/2015.
- */
 public class ServerFragment extends AbstractFragment {
 
     protected static final String TAG = ServerFragment.class.getSimpleName();

@@ -3,9 +3,6 @@ package in.cubestack.cubestackottodemo.fragment;
 import android.content.Intent;
 import android.support.v4.app.Fragment;
 
-/**
- * Created by arunk on 6/30/2015.
- */
 public class AbstractFragment extends Fragment {
 
     public String getTabName(){ return ""; }
